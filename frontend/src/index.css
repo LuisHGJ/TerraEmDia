@@ -219,7 +219,7 @@ body {
 }
 
 .badge {
-  padding: 4px 20px;
+  padding: 4px 12px;
   border-radius: 20px;
   font-size: 0.75rem;
   font-weight: 700;
@@ -353,6 +353,10 @@ body {
   font-size: 0.85rem;
   color: #777;
   margin-top: 4px;
+}
+
+.badge {
+  white-space: nowrap;
 }
 
 /* ── Loading ─────────────────────────────────────────── */
